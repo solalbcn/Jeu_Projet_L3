@@ -3,19 +3,26 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Monster
+  - LeftEntrance
+  - RightEntrance
+  - TopEntrance
+  - BotEntrance
+  - Tree
+  - Fence
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
+  - Walls
   - 
-  - 
-  - 
-  - 
-  - 
+  - Monster
+  - IgnorePushCollider
+  - Obstacle
   - 
   - 
   - 
